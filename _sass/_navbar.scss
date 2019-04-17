@@ -52,13 +52,22 @@ $dropDown       : false;
     &:hover {
       color: $colHighlight; }}}
 @media (max-width: 767px) {
+  .navbar-nav, .pull-right {
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    right: 0;
+    margin: auto;
+    border-radius: 5px
+  }
   .navbar-default .navbar-nav .open .dropdown-menu {
-    > li > a {
+    > li {
       color: $colDefault;
       &:hover, &:focus {
         color: $colHighlight; }}
     > .active {
       > a, > a:hover, > a:focus {
         color: $colHighlight;
-        background-color: $bgHighlight; }}}
+        background-color: $bgHighlight;
+}}}
 }
