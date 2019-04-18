@@ -55,10 +55,14 @@ $dropDown       : false;
   .navbar-nav, .pull-right {
     position: absolute;
     z-index: 10;
-    background-color: white;
+    background-color: $bgDefault;
     right: 0;
     margin: auto;
-    border-radius: 5px
+    border-radius: 5px;
+    padding-left: 7px
+  }
+  #navbar {
+    border-color: $bgDefault
   }
   .navbar-default .navbar-nav .open .dropdown-menu {
     > li {
@@ -69,5 +73,5 @@ $dropDown       : false;
       > a, > a:hover, > a:focus {
         color: $colHighlight;
         background-color: $bgHighlight;
-}}}
+    }}}
 }
