@@ -25,7 +25,7 @@
 
 var Meetup = function(meetupURL) {
   this.meetupURL = (typeof meetupURL!=='undefined') ? meetupURL :
-  "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=techcorridorio&page=200&fields=&order=time&desc=false&status=upcoming&sig_id=168857872&sig=e659cc6038d27adf6eae600a44905c69196c77df";
+  "https://api.meetup.com/dc-code-coffee/events";
 
   this.getEvents = function(callback) {
     $.ajax({
@@ -50,8 +50,8 @@ window.onload = function(){
       "url": $(this).data("meetup-card-url")
     };
 
-    var meetup = new Meetup(componentConfiguration.url).getEvents(function(data) {
-      $.each(data.results, function(i, event) {
+    var meetup = new Meetup(componentConfiguration.url).getEvents(function(results) {
+      $.each(results.data, function(i, event) {
         if (i < componentConfiguration.maxEvents) {
           eventPresenter = EventPresenter(event);
           createEventCard(eventPresenter);
