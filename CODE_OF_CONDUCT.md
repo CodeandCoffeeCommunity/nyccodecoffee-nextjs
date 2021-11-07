@@ -33,7 +33,7 @@ You can [make an anonymous report](https://forms.gle/5pJDSdhBZx5ibCMk8). We can'
 
 You can make a personal report by:
 
-- [Contacting a group organizer on Meetup].
+- [Contacting a group organizer on Meetup][1].
 - Emailing organizer Colleen Curry at [colleencurry01@gmail.com](mailto:colleencurry01@gmail.com?subject=URGENT:%20NYC%20Code%20and%20Coffee%20Code%20of%20Conduct%20violation).
 
 
