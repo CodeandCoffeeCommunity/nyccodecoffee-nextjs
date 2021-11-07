@@ -1,6 +1,6 @@
 # Code of Conduct
 
-DC Code and Coffee is dedicated to providing a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of group participants in any form. Sexual language and imagery is not appropriate for any event or communication channel. Group participants violating these rules may be sanctioned or expelled from the event at the discretion of the organizers.
+NYC Code and Coffee is dedicated to providing a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of group participants in any form. Sexual language and imagery is not appropriate for any event or communication channel. Group participants violating these rules may be sanctioned or expelled from the event at the discretion of the organizers.
 
 Harassment includes, but is not limited to:
 
@@ -27,26 +27,47 @@ You can make a report either personally or anonymously.
 
 ### Anonymous Report
 
-You can [make an anonymous report](https://docs.google.com/forms/d/e/1FAIpQLSdREZuQmRsYZMtQAt0I8DbzrrpMX05I3kv9Ye9rhpQBwTLK7w/viewform). We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
+You can [make an anonymous report](https://forms.gle/5pJDSdhBZx5ibCMk8). We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 
 ### Personal Report
 
 You can make a personal report by:
 
-- Contacting a [group organizer on Meetup][1].
-- Emailing organizer Andrew Dunkman at [adunkman@gmail.com](mailto:adunkman@gmail.com?subject=URGENT:%20DC%20Code%20and%20Coffee%20Code%20of%20Conduct%20violation).
-- Emailing organizer Jax Garry at [jacqueline.m.garry@gmail.com](mailto:jacqueline.m.garry@gmail.com?subject=URGENT:%20DC%20Code%20and%20Coffee%20Code%20of%20Conduct%20violation).
+- [Contacting a group organizer on Meetup].
+- Emailing organizer Colleen Curry at [colleencurry01@gmail.com](mailto:colleencurry01@gmail.com?subject=URGENT:%20NYC%20Code%20and%20Coffee%20Code%20of%20Conduct%20violation).
+
 
 When taking a personal report, our organizers may involve other organizers to ensure your report is managed properly. This can be upsetting, but we'll handle it as respectfully as possible, and you can include someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.
 
 Our team will be happy to help you contact law enforcement, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
-- [Organizers group on Meetup][1].
-- DC Police can be reached at [911](tel:911) (emergency) or [311](tel:311) (non-emergency).
-- The DC Rape Crisis Center can be reached at [202-333-7273](tel:2023337273).
+Contact a [group organizer on Meetup][1].
+
+## More Resources
+
+- NYS Domestic Violence and Sexual Violence Hotline: 
+  [1-800-942-6906](tel:8009426906)
+  Text 844-997-2121 or [Chat online](https://opdv.ny.gov/)
+
+- New York City: [1-800-621-HOPE](tel:8006214673) (4673) or 311(tel:311)
+
+- [Report discrimination online](https://www1.nyc.gov/site/cchr/about/report-discrimination.page) to NYC Human Rights
+
+- NYS Bias and Discrimination Hotline: 1-888-392-3644
+
+<details>
+  <summary>Click for more</summary>
+  
+- [NYS Rape Crisis Centers](https://www.nyscasa.org/get-help/find-your-local-rape-crisis-program/)
+- [NYS DOH Sexual Violence Prevention Program](https://www.health.ny.gov/prevention/sexual_violence/)
+- [NY Crime Victim Assistance Programs](https://ovs.ny.gov/locate-program)
+- [1 in 6 (for male survivors of sexual abuse or assault)](https://1in6.org/)
+- [Trans Lifeline](https://translifeline.org/): 1-877-565-8860
+
+</details>
 
 ## Attribution
 
 This Code of Conduct is adapted from [the Geek Feminism conference anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-[1]: https://www.meetup.com/dc-code-coffee/members/?op=leaders
+[1]: https://www.meetup.com/new-york-code-coffee/members/?op=leaders
